@@ -1,0 +1,57 @@
+.app{
+    display: inline-block;
+    margin: 0 50px;
+}
+.search-bar{
+    margin: 15px 0;
+    text-align: center;
+}
+.search-bar input{
+    width: 75%;
+    height: 40px;
+    border-radius: 3px;
+    box-shadow: none;
+    border: 1px solid #c1c1c1!important;
+    padding: 5px;
+}
+.list-group{
+    list-style: none;
+    padding: 0 15px;
+}
+.video-item{
+    border-bottom: 1px solid #eeeeee;
+    padding: 5px 0;
+    cursor: pointer;
+}
+.video-item:hover{
+    background-color: #eeeeee;
+}
+.media{
+    display: flex;
+    align-items: center;
+}
+.media-image{
+    display: inline-block;
+    padding: 5px;
+}
+.media-thumbnail{
+    max-width: 100px;
+}
+.media-details{
+    display: inline-block;
+    padding: 5px;
+}
+.video-player{
+    padding: 0 30px;
+}
+.video-details{
+    padding: 20px 0;
+}
+.video-title{
+    font-weight: 700;
+    color: black;
+    margin: 10px 0;
+}
+.video-description{
+
+}
